@@ -1,5 +1,4 @@
 readme generate
 ## 🎵 Random Song
 
-<img src="https://readmusic-generator.vercel.app/api/song">
-
+[![Random Song](https://readmusic-generator.vercel.app/api/song)](https://readmusic-generator.vercel.app/api/youtube)
