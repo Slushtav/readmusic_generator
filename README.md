@@ -29,11 +29,8 @@ Generate a random music card for your GitHub README using a free music API.
 
 ## 📸 Preview
 
-> Replace with your deployed URL.
 
-```md
-![Random Song](https://YOUR_PROJECT.vercel.app/api/song)
-```
+[![Random Song](https://readmusic-generator.vercel.app/api/song)](https://readmusic-generator.vercel.app/api/youtube)
 
 ---
 
