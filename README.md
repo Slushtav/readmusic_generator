@@ -141,6 +141,6 @@ If you like this project, don't forget to leave a ⭐ on GitHub.
 
 <div align="center">
 
-Made with ❤️ by **Gustav Ananda**
+Made by **Gustav Ananda**
 
 </div>
