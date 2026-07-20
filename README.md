@@ -117,7 +117,6 @@ Add this to your GitHub README.
 - [x] Random Song Generator
 - [x] SVG Card
 - [ ] Album Cover
-- [ ] Theme Customization
 - [ ] Lyrics Support
 - [ ] Last.fm Integration
 - [ ] Spotify Theme
